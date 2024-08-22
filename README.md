@@ -1,5 +1,5 @@
 #  About Me:
-* Hi I'm currently persuing a Bachelor's Degree in Computer Science and Engineering (CSE).<br>Enthusiast in learning DSA, Java and Cybersecurity.<br>I was interested to connect and learn with Cyber Security working Professionals.
+* Hi I'm currently persuing a Bachelor's Degree in Computer Science and Engineering (CSE).<br>* Enthusiast in learning DSA, Java and Cybersecurity.<br>* I was interested to connect and learn with Cyber Security working Professionals.
 
 
 ##  Socials:
